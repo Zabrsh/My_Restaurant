@@ -1,8 +1,5 @@
 let menu = [
-    {
-        'title':"Most popular dishes",
-        'description':"Consectetur numquam poro nemo veniam eligendi rem adipisci quo modi."
-    },
+
     {
         'name': "Stracciatella",
         'description': "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
@@ -68,10 +65,6 @@ let menu = [
 
 let reviews = [
     {
-        'title': "What our customers say?",
-        'description':"Consectetur numquam poro nemo veniam eligendi rem adipisci quo modi."
-    },
-    {
         'name':"Emma Newman",
         'img':"./images/testimonials1.jpg",
        ' heading':"Very tasty",
@@ -136,6 +129,9 @@ let home = {
     'greeting':"Hi, new friend!",
     'title':"We do not cook, we create your emotions!",
     'explain': "Consectetur numquam poro nemo veniam eligendi rem adipisci quo modi",
+    'food1':"./images/food1.png",
+    'food2':"./images/food2.png",
+    'food3':"./images/food3.png"
 }
 
 let common = {
@@ -146,9 +142,10 @@ let common = {
     'cart': "./images/cart.svg",
     'circle' : "./images/circle.svg",
     'arrow': "./images/arrow.svg",
-    'dialog-1': "./images/dialog-1.svg",
-    'dialog-2': "./images/dialog-2.svg",
-    'menu': "./images/menu.svg"
+    'dialog1': "./images/dialog-1.svg",
+    'dialog2': "./images/dialog-2.svg",
+    'menu': "./images/menu.svg",
+    'ring':"./images/ring.svg"
 
 }
 
